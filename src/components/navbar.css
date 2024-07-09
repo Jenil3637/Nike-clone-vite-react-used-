@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+}
+
+.Navbar {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Navbar img {
+    height: 40px;
+    margin-right: 20px;
+  }
+  
+  .Navbar button {
+    background: none;
+    border: none;
+    padding: 10px 15px;
+    margin: 0 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .Navbar button:hover {
+    color: #ff4500;
+  }
+  
+  .Navbar i {
+    margin: 0 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+    .end{
+        margin-left: auto;
+    }
+  
+  .Navbar input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  
+  .Navbar input::placeholder {
+    color: #999;
+  }

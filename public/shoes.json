@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Air Force 1 '07",
+      "price": 11000,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-shoes-WrLlWX.png"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air Max SC",
+      "price": 8500,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9ddd329e-a702-4a18-b621-cd21739483e1/air-max-sc-shoes-2fm8C6.png"
+    },
+    {
+      "id": 3,
+      "name": "Nike Revolution 7",
+      "price": 6500,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8bdc4ff8-faa5-43e9-8636-58b18f33db54/revolution-7-road-running-shoes-NNc8Ll.png"
+    },
+    {
+      "id": 4,
+      "name": "Nike Go FlyEase",
+      "price": 12000,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/247616b5-1d3b-4777-abbb-d5e08a924b78/go-flyease-easy-on-off-shoes-3svRCL.png"
+    },
+    {
+      "id": 5,
+      "name": "Nike Air Max Excee",
+      "price": 9000,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f701be0e-cc3f-4c11-99cf-47f87aeaa024/air-max-excee-shoes-q8M2xt.png"
+    },
+    {
+      "id": 6,
+      "name": "Jordan Jumpman MVP",
+      "price": 16500,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ebdc8f36-bb8d-44f0-ade5-9b676a54d197/jumpman-mvp-shoes-JV1HCs.png"
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Force 1 '07 Premium",
+      "price": 13000,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a42a5d53-2f99-4e78-a081-9d07a2d0774a/air-force-1-07-shoe-HWWX9W.png"
+    }
+  ]

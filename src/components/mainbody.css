@@ -1,0 +1,102 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Navbar styles */
+.Navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.Navbar img {
+    height: 50px;
+}
+
+.Navbar button {
+    background: none;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+}
+
+.Navbar .end {
+    display: flex;
+    align-items: center;
+}
+
+.Navbar input {
+    padding: 0.5rem;
+    margin-left: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.Navbar .search, .Navbar .large {
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+/* Main content styles */
+.main-content {
+    padding: 2rem;
+}
+
+.main-content h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.sneaker-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.sneaker-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.sneaker-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.sneaker-card img {
+    width: 100%;
+    height: 350px;
+    margin-bottom: 1rem;
+}
+
+.sneaker-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.sneaker-card p {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.sneaker-card button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.sneaker-card button:hover {
+    background-color: #333;
+}
